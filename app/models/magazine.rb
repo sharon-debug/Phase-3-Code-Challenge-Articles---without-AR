@@ -21,7 +21,7 @@ class Magazine
     articles.map{|aricle| article.Articles.title}
   end
 
-  end
+
   def contributors
     articles.map{|article|article.author}
   end

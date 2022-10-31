@@ -29,3 +29,4 @@ class Author
   def add_article(magazine, title)
 
 end
+end
