@@ -14,6 +14,7 @@ fried=Author.new("Frieds")
 garfied=Author.new('Garfied')
 
 letter=Magazine.new('News Letter',"Startard News")
+
 mag=Magazine.new("Mag News1","Startard news2")
 
 
